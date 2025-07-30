@@ -1,5 +1,11 @@
 # al_hidaya
+## Design 
 https://www.figma.com/design/gS33fktC1geNtC3ogJUTnw/Web-app-design?node-id=0-1&t=6GC2fMniAEONkjN3-1
+
+## Assets 
+https://drive.google.com/drive/folders/1eHnN3iCqt26A647H_KBsynRmWfq05qt-?usp=sharing
+
+
 
 This project is a starting point for a Flutter application.
 
