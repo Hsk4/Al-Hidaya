@@ -1,8 +1,5 @@
 # al_hidaya
-
-A new Flutter project.
-
-## Getting Started
+https://www.figma.com/design/gS33fktC1geNtC3ogJUTnw/Web-app-design?node-id=0-1&t=6GC2fMniAEONkjN3-1
 
 This project is a starting point for a Flutter application.
 
